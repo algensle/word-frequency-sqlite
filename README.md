@@ -13,7 +13,7 @@ The calculation of rank x frequency is roughly constant from rank 10 on, as pred
 Contractions like "don't" get split with the regex implementation into fragments and not full words. The table of contents is still part of the analysed text.
 
 ## Usage 
-´´´
+```
 python word_count.py
 
-´´´
+```
